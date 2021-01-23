@@ -1,0 +1,13 @@
+jupyter
+numpy
+matplotlib
+scipy
+h5py
+Pillow
+emoji
+pandas
+sklearn
+tensorflow==2.2
+keras
+pydot
+imageio

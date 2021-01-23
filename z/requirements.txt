@@ -1,0 +1,16 @@
+jupyter
+numpy
+matplotlib
+scipy
+h5py
+Pillow
+emoji
+pandas
+sklearn
+keras==2.3.1
+tensorflow==1.14
+pydot
+imageio
+opencv-python
+IPython==5.1.0
+pydub

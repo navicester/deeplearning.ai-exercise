@@ -1,0 +1,4 @@
+Operations-on-word-vectors
+
+words, word_to_vec_map = read_glove_vecs('../../readonly/glove.6B.50d.txt')
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 2273: character maps to <undefined>
