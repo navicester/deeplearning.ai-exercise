@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+babel = "==2.3.4"
+faker = "==0.8.10"
+h5py = "==2.9.0"
+ipython = "==5.1.0"
+keras = "==2.0.7"
+matplotlib = "==2.0.0"
+opencv-python = "==3.3.0.10"
+pandas = "==0.19.2"
+pillow = "==4.0.0"
+scipy = "==1.0.0"
+pygraphviz = {path = "./wheel/pygraphviz-1.5-cp36-cp36m-win_amd64.whl"}
+jupyter = "==1.0.0"
+tensorflow = "==1.2.1"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
+# unable to lock jupyter

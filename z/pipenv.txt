@@ -1,0 +1,13 @@
+D:\working\deeplearning.ai>pipenv --python 3.6
+Creating a virtualenv for this project...
+Pipfile: D:\working\deeplearning.ai\Pipfile
+Using C:/Users/bin_he4/AppData/Local/Programs/Python/Python36/python.exe (3.6.8) to create virtualenv...
+[==  ] Creating virtual environment...created virtual environment CPython3.6.8.final.0-64 in 5132ms
+  creator CPython3Windows(dest=C:\Users\bin_he4\.virtualenvs\deeplearning.ai-M7fYo2Je, clear=False, no_vcs_ignore=False, global=False)
+  seeder FromAppData(download=False, pip=bundle, setuptools=bundle, wheel=bundle, via=copy, app_data_dir=C:\Users\bin_he4\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0\LocalCache\Local\pypa\virtualenv)
+    added seed packages: pip==20.3.3, setuptools==51.3.3, wheel==0.36.2
+  activators BashActivator,BatchActivator,FishActivator,PowerShellActivator,PythonActivator,XonshActivator
+
+Successfully created virtual environment!
+Virtualenv location: C:\Users\bin_he4\.virtualenvs\deeplearning.ai-M7fYo2Je
+Creating a Pipfile for this project...
